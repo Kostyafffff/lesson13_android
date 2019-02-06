@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView tv = new TextView(this);
         tv.setLayoutParams(lpView);
-        tv.setText("HELLOS WORLDUS!");
+        tv.setText("HELLOS!");
         linearLayout.addView(tv);
 
         Button btn = new Button(this);
